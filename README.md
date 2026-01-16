@@ -4,6 +4,8 @@
 - Low-level optimizations
 
 ## Educations
+- 2016 - 2017
+  - Sangmyung University (Electrical Engineering @Seoul Campus, withdrawed due to Transfer)
 - 2018 - 2021
   - University of Seoul (Electronics, Electrical and Computer Engineering, B.E.)
 - 2024 - Current
